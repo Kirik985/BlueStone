@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=east,left_on=false,right_on=false": {
+      "model": "bluestone:block/and_gate",
+      "y": 90
+    },
+    "facing=east,left_on=true,right_on=false": {
+      "model": "bluestone:block/and_gate_left",
+      "y": 90
+    },
+    "facing=east,left_on=false,right_on=true": {
+      "model": "bluestone:block/and_gate_right",
+      "y": 90
+    },
+    "facing=east,left_on=true,right_on=true": {
+      "model": "bluestone:block/and_gate_on",
+      "y": 90
+    },
+    "facing=north,left_on=false,right_on=false": {
+      "model": "bluestone:block/and_gate"
+    },
+    "facing=north,left_on=true,right_on=false": {
+      "model": "bluestone:block/and_gate_left"
+    },
+    "facing=north,left_on=false,right_on=true": {
+      "model": "bluestone:block/and_gate_right"
+    },
+    "facing=north,left_on=true,right_on=true": {
+      "model": "bluestone:block/and_gate_on"
+    },
+    "facing=south,left_on=false,right_on=false": {
+      "model": "bluestone:block/and_gate",
+      "y": 180
+    },
+    "facing=south,left_on=true,right_on=false": {
+      "model": "bluestone:block/and_gate_left",
+      "y": 180
+    },
+    "facing=south,left_on=false,right_on=true": {
+      "model": "bluestone:block/and_gate_right",
+      "y": 180
+    },
+    "facing=south,left_on=true,right_on=true": {
+      "model": "bluestone:block/and_gate_on",
+      "y": 180
+    },
+    "facing=west,left_on=false,right_on=false": {
+      "model": "bluestone:block/and_gate",
+      "y": 270
+    },
+    "facing=west,left_on=true,right_on=false": {
+      "model": "bluestone:block/and_gate_left",
+      "y": 270
+    },
+    "facing=west,left_on=false,right_on=true": {
+      "model": "bluestone:block/and_gate_right",
+      "y": 270
+    },
+    "facing=west,left_on=true,right_on=true": {
+      "model": "bluestone:block/and_gate_on",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "bluestone:block/base_block" }
+  }
+}
