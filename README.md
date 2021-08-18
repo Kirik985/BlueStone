@@ -8,7 +8,7 @@ public class Bluestone {
 ```
 ## Overview
 
-BlueStone is Minecraft mod that was inspired by Scrap Mechanic (yeah, I like transferring other games to Minecraft XD). But it has some unique features like making your own gates.
+BlueStone is Minecraft mod that was inspired by Make It True (mobile game) and Digital Logic Sim (yeah, I like transferring other games to Minecraft XD). But it has some unique features like making your own gates.
 
 ## In-game
 Currently not done!
