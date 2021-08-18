@@ -1,4 +1,5 @@
 # BlueStone
+**WARNING: THIS VERSION OF MOD IS ARCHIVED, I'M DEVELOPING [ANOTHER ONE](https://github.com/Kirik985/BlueStone/1.16.5)**
 **WARNING: THIS MOD IS CURRENTLY NOT DONE, IT'S CODE LOOKS LIKE THIS:**
 ```java
 @Mod("bluestone")
